@@ -1,7 +1,7 @@
 # Razer Wolverine V3 TE Controller Overlay
 
 <p align="center">
-  <img src="[docs/preview.png](https://raw.githubusercontent.com/AresDza/Controller-Overlay-Skins/refs/heads/master/preview.png)" alt="Razer Wolverine V3 TE controller overlay preview" width="720">
+  <img src="https://raw.githubusercontent.com/AresDza/Controller-Overlay-Skins/refs/heads/master/preview.png" alt="Razer Wolverine V3 TE controller overlay preview" width="720">
 </p>
 
 <p align="center">
