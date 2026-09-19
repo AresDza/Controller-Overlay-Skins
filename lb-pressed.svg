@@ -21,15 +21,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.0581364"
-     inkscape:cx="44.416824"
-     inkscape:cy="34.782553"
+     inkscape:zoom="4.9908561"
+     inkscape:cx="111.90465"
+     inkscape:cy="5.9108096"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="LB_Pressed" />
   <defs
      id="defs1">
     <style
@@ -65,20 +65,15 @@
          id="path2" />
       <path
          class="cls-2"
-         d="M165.69,23.72c-5.58-2.88-17.26-13.36-32.81-18.23C108.67-2.07,11.57,39.58,10.9,39.86c-5,7.44-2.21,15.33-10.84,23l-.06,0C33.16,45,99.17,24.75,118.75,28.53c9.12,1.76,19.9,12.09,31.08,24.76l15.85-29.58Z"
-         transform="translate(0 0)"
+         d="M 165.69,23.72 C 160.11,20.84 148.43,10.36 132.88,5.49 108.67,-2.07 11.57,39.58 10.9,39.86 5.9,47.3 8.69,55.19 0.06,62.86 H 0 C 33.16,45 99.17,24.75 118.75,28.53 c 9.12,1.76 46.93,-4.82 46.93,-4.82 z"
          id="path3"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1"
+         sodipodi:nodetypes="cccccccc" />
       <path
          class="cls-3"
          d="M165.69,23.72l.48.25Z"
-         transform="translate(0 0)"
-         id="path4" />
+         id="path4"
+         transform="translate(0 0)" />
     </g>
-    <path
-       class="cls-3"
-       d="M150.55,54.1c.24.3.47.57.73.84L167.66,24.4l3.49-6.53c-.34-.07-.68-.13-1-.23s-.68-.19-1-.27l-3.42,6.34L149.83,53.3l.72.8h0"
-       id="path5"
-       transform="translate(0 0)" />
   </g>
 </svg>
