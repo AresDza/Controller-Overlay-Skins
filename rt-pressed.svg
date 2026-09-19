@@ -10,6 +10,7 @@
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="6.7755449"
      inkscape:cx="43.465139"
-     inkscape:cy="62.651788"
+     inkscape:cy="62.799377"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="1912"
@@ -46,27 +47,30 @@
         fill: #ebebeb;
       }
     </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch24"
+       id="linearGradient24"
+       x1="140"
+       y1="80.21032"
+       x2="612.62445"
+       y2="80.21032"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87962769,0,0,0.87962769,-452.75721,-46.912174)" />
+    <linearGradient
+       id="swatch24"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop24" />
+    </linearGradient>
   </defs>
-  <g
-     id="Layer_1-2"
-     data-name="Layer 1">
-    <g
-       id="LT_Pressed"
-       data-name="LT Pressed">
-      <path
-         class="cls-1"
-         d="m14.18,55.41v.67c-.01-.22-.01-.45,0-.67Z"
-         id="path1" />
-      <path
-         class="cls-1"
-         d="m88.93,121.79l-53.25-7.22,2.32-110c.41.28.81.58,1.21.9,6.72,5.29,37.65-.47,49.72,116.32Z"
-         id="path2"
-         style="fill:#1e1e1e;fill-opacity:1" />
-      <path
-         class="cls-2"
-         d="m38,4.62s2.03,22.28,1.22,59.78c-.68,29.69-.68,50.6-.68,50.6,0,0-28.61-3.06-38.54-5.35,1.76-31,1.76-62.09,0-93.09v-1.23C.12,11.58,1.36.55,12.19.14c12.25-.45,19.4-.05,25.81,4.48Z"
-         id="path3"
-         style="fill:#ffffff;fill-opacity:1" />
-    </g>
-  </g>
+  <path
+     class="cls-4"
+     d="M 58.86684,1.4334127 C 83.076912,2.3491078 85.823998,26.983532 86.092012,35.358789 L 86.124206,46.1706 82.354527,44.239835 78.65629,42.573609 74.990812,40.767321 71.331499,39.221504 65.629479,36.733051 59.728084,34.422769 52.202605,31.645535 48.034612,30.239262 45.143469,29.400263 39.413434,27.650505 33.71152,26.221667 27.808576,24.863215 21.881469,23.84654 16.305131,23.043311 10.742911,22.605132 6.0373949,22.414228 1.1306821,22.495277 1.2673675,11.32738 C 15.583511,1.3217404 31.552333,0.42837914 58.86684,1.4334101 Z"
+     id="path56-1-5"
+     style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient24);stroke-width:2.2334"
+     sodipodi:nodetypes="cccccccccccccccccccccc"
+     inkscape:label="RT" />
 </svg>
