@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Local exports / backups
+*.bak
+*.backup
+*.zip
