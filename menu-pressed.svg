@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   width="33.2"
+   height="33.2"
+   viewBox="0 0 33.2 33.2"
+   version="1.1"
+   sodipodi:docname="menu-pressed.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="35.150602"
+     inkscape:cx="16.6"
+     inkscape:cy="16.6"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #f5f5f5;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #929493;
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch3"
+       id="linearGradient3"
+       x1="9.3999996"
+       y1="16.609999"
+       x2="23.759999"
+       y2="16.609999"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     class="cls-1"
+     d="m32.7,16.6c0,8.89-7.21,16.1-16.1,16.1S.5,25.49.5,16.6,7.71.5,16.6.5c8.89,0,16.09,7.21,16.1,16.1Z"
+     id="path1"
+     style="fill:#000000;fill-opacity:1" />
+  <g
+     id="g3"
+     style="fill:url(#linearGradient3)">
+    <rect
+       class="cls-2"
+       x="9.4"
+       y="11.98"
+       width="14.36"
+       height="1.55"
+       id="rect1"
+       style="fill:url(#linearGradient3)" />
+    <rect
+       class="cls-2"
+       x="9.4"
+       y="15.9"
+       width="14.36"
+       height="1.55"
+       id="rect2"
+       style="fill:url(#linearGradient3)" />
+    <rect
+       class="cls-2"
+       x="9.4"
+       y="19.71"
+       width="14.36"
+       height="1.53"
+       id="rect3"
+       style="fill:url(#linearGradient3)" />
+  </g>
+</svg>
